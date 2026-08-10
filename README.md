@@ -15,5 +15,5 @@ and facilitates the adaptation of the DE algorithm to real-world engineering pro
 Proposed Model
 
 <p align="center">
-  <img src="images/DIAGRAMALLMDE2.png" width="700">
+  <img src="LLMDE.png" width="500">
 </p>
