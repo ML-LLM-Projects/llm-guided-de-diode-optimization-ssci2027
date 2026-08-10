@@ -11,3 +11,9 @@ determines the subsequent operator combination. The proposed strategy is evaluat
 double-diode photovoltaic model. This approach enables an analysis of the proposal’s overall optimization behavior and efficiency
 in a nonlinear inverse problem. The findings indicate that the proposed framework reduces reliance on manual configurations
 and facilitates the adaptation of the DE algorithm to real-world engineering problems.
+
+Proposed Model
+
+<p align="center">
+  <img src="images/DIAGRAMALLMDE2.png" width="700">
+</p>
