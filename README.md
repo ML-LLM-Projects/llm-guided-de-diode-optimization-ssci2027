@@ -12,8 +12,10 @@ double-diode photovoltaic model. This approach enables an analysis of the propos
 in a nonlinear inverse problem. The findings indicate that the proposed framework reduces reliance on manual configurations
 and facilitates the adaptation of the DE algorithm to real-world engineering problems.
 
-Proposed Model
+Proposed Methodology
 
 <p align="center">
   <img src="LLMDE.png" width="500">
 </p>
+
+The workflow illustrates the proposed LLM-guided Differential Evolution framework. The algorithm initializes the optimization problem, population, and operator pair, then iteratively applies mutation and crossover operators while monitoring fitness improvement and population diversity. When stagnation or diversity loss is detected, the LLM is invoked to select a new operator pair. The process continues for 500 cycles and finally saves the resulting performance data and reports.
