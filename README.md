@@ -12,7 +12,7 @@ double-diode photovoltaic model. This approach enables an analysis of the propos
 in a nonlinear inverse problem. The findings indicate that the proposed framework reduces reliance on manual configurations
 and facilitates the adaptation of the DE algorithm to real-world engineering problems.
 
-Proposed Methodology
+**Proposed Methodology**
 
 <p align="center">
   <img src="LLMDE.png" width="500">
