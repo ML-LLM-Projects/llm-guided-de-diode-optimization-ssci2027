@@ -18,4 +18,4 @@ and facilitates the adaptation of the DE algorithm to real-world engineering pro
   <img src="LLMDE.png" width="500">
 </p>
 
-The workflow illustrates the proposed LLM-guided Differential Evolution framework. The algorithm initializes the optimization problem, population, and operator pair, then iteratively applies mutation and crossover operators while monitoring fitness improvement and population diversity. When stagnation or diversity loss is detected, the LLM is invoked to select a new operator pair. The process continues for 500 cycles and finally saves the resulting performance data and reports.
+The workflow illustrates the proposed LLM-guided Differential Evolution framework. The algorithm initializes the optimization problem, population, and operator pair, then iteratively applies mutation and crossover operators while monitoring fitness improvement and population diversity. When stagnation or diversity loss is detected, the LLM is invoked to select a new operator pair. The process continues for 500 iterations and finally saves the resulting performance data and reports.
