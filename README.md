@@ -1,7 +1,7 @@
 # llm-guided-de-diode-optimization-ssci2027
 Official repository for the SSCI 2027 paper on Large Language Models, Differential Evolution, Adaptive Operator Selection, Automated Algorithm Design, and solar-cell diode model optimization.
 
-Abstract—Large language models (LLMs) have demonstrated promising capabilities for the automatic design and refinement
+**Abstract** Large language models (LLMs) have demonstrated promising capabilities for the automatic design and refinement
 of metaheuristic algorithms. This paper proposes an adaptive framework guided by an LLM for the dynamic selection of mu-
 tation and crossover operators in the Differential Evolution (DE) algorithm. The DE algorithm’s structural integrity is maintained,
 with the LLM acting as a high-level selector among a predefined set of operator combinations. An external mechanism is employed
